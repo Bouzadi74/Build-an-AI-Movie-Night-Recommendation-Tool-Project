@@ -1,0 +1,1 @@
+This project successfully builds a movie recommendation system that employs multiple recommendation strategies. Future improvements could include hybrid models combining different approaches, implementing deep learning-based embeddings, and expanding the dataset with real-time user interactions for more dynamic recommendations.
